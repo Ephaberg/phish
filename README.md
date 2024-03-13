@@ -41,24 +41,24 @@ This project is now a part of [MaxPhisher](https://github.com/Ephaberg/MaxPhish)
 
 ##### Clone this repository
 
- - ```
-   git clone https://github.com/Ephaberg/phish
-  ```
-
+   - ```
+     git clone https://github.com/Ephaberg/phish
+     ```
 ##### Enter the directory
- - ```
-   cd phish
-  ```
-
+   - ```
+     cd phish
+     ```
 ##### Install all modules
- - ```
-   pip3 install -r files/requirements.txt --break-system-packages
-  ```
+   - ```
+     pip3 install -r files/requirements.txt --break-system-packages
+     ```
+    
 
 ##### Run the tool
- - ```
-  python3 phish.py
-  ```
+   - ```
+     python3 phish.py
+     ```
+    
 
 #### Or, directly run
 ```
