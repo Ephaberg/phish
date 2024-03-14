@@ -70,7 +70,7 @@ This project is now a part of [MaxPhish](https://github.com/Ephaberg/MaxPhish). 
 
 #### Or, directly run
 ```
-wget https://raw.githubusercontent.com/Ephaberg/phish/main/phish.py && python3 phish.py
+wget https://raw.githubusercontent.com/Ephaberg/phish/master/phish.py && python3 phish.py
 
 ```
 
